@@ -1,0 +1,10 @@
+{
+  "description": "Streamline task management with an intuitive interface designed to boost productivity and keep teams organized and on track.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
